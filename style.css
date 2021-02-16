@@ -1,0 +1,33 @@
+img {
+  width: 50%;
+  height: 40%;
+  padding-bottom: 1%;
+}
+.col-2 {
+  border: 2px black solid;
+  text-align: center;
+  padding: 2%;
+  margin: 2%;
+ background: white;
+}
+h1{
+  text-align: center;
+  margin: 15px 0 15px 0;
+  color: white;
+}
+h2{
+  text-align: center;
+  color: white;
+}
+#accueil{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+#tout{
+  background: grey;
+}
+ i{
+  color:black;
+}
